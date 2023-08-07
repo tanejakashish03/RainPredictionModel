@@ -4,6 +4,25 @@ It is a project on predicting whether it will rain tomorrow or not by using the 
 # Dataset Link
 https://drive.google.com/file/d/1vqoC-Mm1W9voR36ofj_39D8ig8ekoG9H/view?usp=drive_link
 
+# TechStack
+Front-End: HTML, CSS
+Back-End: Flask
+IDE: Google Colab
+
+# Dependencies
+Visual Studio Code
+Google colab research
+numpy
+pandas
+sklearn
+flask-ngrok
+datetime
+render_template
+requests
+
+# Working of Model
+
+
 # Predictor
 ![predictor](https://github.com/tanejakashish03/RainPredictionModel/assets/140004057/20337e70-5984-4d11-83f2-ed8f20e8ef65)
 
