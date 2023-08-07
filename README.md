@@ -18,8 +18,8 @@ render_template
 requests  
 
 # Dataset
-Link: https://drive.google.com/file/d/1vqoC-Mm1W9voR36ofj_39D8ig8ekoG9H/view?usp=drive_link
-Desccription:  
+Link: https://drive.google.com/file/d/1vqoC-Mm1W9voR36ofj_39D8ig8ekoG9H/view?usp=drive_link  
+Description:  
 This dataset contains about 10 years of daily weather observations from many locations across Australia.  
 Location - Name of the city from Australia.  
 MinTemp - The Minimum temperature during a particular day. (Degree Celsius)  
