@@ -10,8 +10,8 @@ IDE: Google Colab
 Visual Studio Code  
 Google colab research  
 numpy  
-pandas
-pickle
+pandas  
+pickle  
 sklearn  
 flask-ngrok  
 datetime  
