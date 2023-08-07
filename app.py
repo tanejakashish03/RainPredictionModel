@@ -1,5 +1,6 @@
-
-from flask import Flask,render_template,url_for,request,jsonify
+pip install flask-ngrok
+from flask_ngrok import run_with_ngrok
+from flask import Flask,request,render_template,url_for,request,jsonify
 from flask_cors import cross_origin
 import pandas as pd
 import numpy as np
