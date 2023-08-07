@@ -20,28 +20,28 @@ requests
 # Dataset
 Link: https://drive.google.com/file/d/1vqoC-Mm1W9voR36ofj_39D8ig8ekoG9H/view?usp=drive_link
 Desccription:  
-This dataset contains about 10 years of daily weather observations from many locations across Australia.
-Location - Name of the city from Australia.
-MinTemp - The Minimum temperature during a particular day. (Degree Celsius)
-MaxTemp - The maximum temperature during a particular day. (Degree Celsius)
-Rainfall - Rainfall during a particular day. (millimeters)
-Evaporation - Evaporation during a particular day. (millimeters)
-Sunshine - Bright sunshine during a particular day. (hours)
-WindGusDir - The direction of the strongest gust during a particular day. (16 compass points)
-WindGuSpeed - Speed of strongest gust during a particular day. (kilometers per hour)
-WindDir9am - The direction of the wind for 10 min prior to 9 am. (compass points)
-WindDir3pm - The direction of the wind for 10 min prior to 3 pm. (compass points)
-WindSpeed9am - Speed of the wind for 10 min prior to 9 am. (kilometers per hour)
-WindSpeed3pm - Speed of the wind for 10 min prior to 3 pm. (kilometers per hour)
-Humidity9am - The humidity of the wind at 9 am. (percent)
-Humidity3pm - The humidity of the wind at 3 pm. (percent)
-Pressure9am - Atmospheric pressure at 9 am. (hectopascals)
-Pressure3pm - Atmospheric pressure at 3 pm. (hectopascals)
-Cloud9am - Cloud-obscured portions of the sky at 9 am. (eighths)
-Cloud3pm - Cloud-obscured portions of the sky at 3 pm. (eighths)
-Temp9am - The temperature at 9 am. (degree Celsius)
-Temp3pm - The temperature at 3 pm. (degree Celsius)
-RainToday - If today is rainy then ‘Yes’. If today is not rainy then ‘No’.
+This dataset contains about 10 years of daily weather observations from many locations across Australia.  
+Location - Name of the city from Australia.  
+MinTemp - The Minimum temperature during a particular day. (Degree Celsius)  
+MaxTemp - The maximum temperature during a particular day. (Degree Celsius)  
+Rainfall - Rainfall during a particular day. (millimeters)  
+Evaporation - Evaporation during a particular day. (millimeters)  
+Sunshine - Bright sunshine during a particular day. (hours)  
+WindGusDir - The direction of the strongest gust during a particular day. (16 compass points)  
+WindGuSpeed - Speed of strongest gust during a particular day. (kilometers per hour)  
+WindDir9am - The direction of the wind for 10 min prior to 9 am. (compass points)  
+WindDir3pm - The direction of the wind for 10 min prior to 3 pm. (compass points)  
+WindSpeed9am - Speed of the wind for 10 min prior to 9 am. (kilometers per hour)  
+WindSpeed3pm - Speed of the wind for 10 min prior to 3 pm. (kilometers per hour)  
+Humidity9am - The humidity of the wind at 9 am. (percent)  
+Humidity3pm - The humidity of the wind at 3 pm. (percent)  
+Pressure9am - Atmospheric pressure at 9 am. (hectopascals)  
+Pressure3pm - Atmospheric pressure at 3 pm. (hectopascals)  
+Cloud9am - Cloud-obscured portions of the sky at 9 am. (eighths)  
+Cloud3pm - Cloud-obscured portions of the sky at 3 pm. (eighths)  
+Temp9am - The temperature at 9 am. (degree Celsius)  
+Temp3pm - The temperature at 3 pm. (degree Celsius)  
+RainToday - If today is rainy then ‘Yes’. If today is not rainy then ‘No’.  
 
 # Algorithm Used
 Random Forest Classifier   
